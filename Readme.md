@@ -9,7 +9,7 @@ A deep learning project that classifies images of Avengers characters — **Capt
 
 ### Avengers Characters
 
-![Avengers Characters](test/Avengers.jpg)
+![Avengers Characters](DataSet/test/Avengers.jpg)
 
 | Character | Class |
 |---|---|
