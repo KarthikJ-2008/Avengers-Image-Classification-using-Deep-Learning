@@ -1,6 +1,6 @@
 # Avengers Image Classification using CNN
 
-A deep learning project that classifies images of Avengers characters — **Captain America, Hulk, Iron Man, Spider-Man, and Thor** — using a Convolutional Neural Network (CNN) built with TensorFlow/Keras.
+A deep learning project that classifies images of Avengers characters — **Captain America, Hulk, Iron Man, Spider-Man, and Thor** — using a Convolutional Neural Network (CNN) built with TensorFlow/Keras. 
 
 ## Overview
 
